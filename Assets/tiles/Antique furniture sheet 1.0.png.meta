@@ -1,0 +1,810 @@
+fileFormatVersion: 2
+guid: c2da5630320800f4ca14ff32ed89e177
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7089979033046315579
+    second: Antique furniture sheet 1.0_0
+  - first:
+      213: -7735717998439436643
+    second: Antique furniture sheet 1.0_1
+  - first:
+      213: 5127006027271092445
+    second: Antique furniture sheet 1.0_2
+  - first:
+      213: -3503188215757788771
+    second: Antique furniture sheet 1.0_3
+  - first:
+      213: 5004994295562988235
+    second: Antique furniture sheet 1.0_4
+  - first:
+      213: -3593269996618050421
+    second: Antique furniture sheet 1.0_5
+  - first:
+      213: 1537511709269361346
+    second: Antique furniture sheet 1.0_6
+  - first:
+      213: -4046666078476063365
+    second: Antique furniture sheet 1.0_7
+  - first:
+      213: -8119386442697611868
+    second: Antique furniture sheet 1.0_8
+  - first:
+      213: -4486369253691379490
+    second: Antique furniture sheet 1.0_9
+  - first:
+      213: -1490005427639467740
+    second: Antique furniture sheet 1.0_10
+  - first:
+      213: -778050882167200678
+    second: Antique furniture sheet 1.0_11
+  - first:
+      213: -5838886899815806815
+    second: Antique furniture sheet 1.0_12
+  - first:
+      213: 5271289933378525504
+    second: Antique furniture sheet 1.0_13
+  - first:
+      213: 672039708045932045
+    second: Antique furniture sheet 1.0_14
+  - first:
+      213: -7620760647550364077
+    second: Antique furniture sheet 1.0_15
+  - first:
+      213: 2489390814736898981
+    second: Antique furniture sheet 1.0_16
+  - first:
+      213: -6678086049559405897
+    second: Antique furniture sheet 1.0_17
+  - first:
+      213: -3850688232813761485
+    second: Antique furniture sheet 1.0_18
+  - first:
+      213: -1612421741961358818
+    second: Antique furniture sheet 1.0_19
+  - first:
+      213: -1082782077657390732
+    second: Antique furniture sheet 1.0_20
+  - first:
+      213: 8305444573506416155
+    second: Antique furniture sheet 1.0_21
+  - first:
+      213: -7629457048801791329
+    second: Antique furniture sheet 1.0_22
+  - first:
+      213: -1823188858467132031
+    second: Antique furniture sheet 1.0_23
+  - first:
+      213: 523301553948700557
+    second: Antique furniture sheet 1.0_24
+  - first:
+      213: -6903324628496333077
+    second: Antique furniture sheet 1.0_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 2
+    wrapV: 2
+    wrapW: 2
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 218
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afee7014eb1c1744d8e1f173fc5f4777
+      internalID: -7089979033046315579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 218
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a7834f693a3c241838217878924de8
+      internalID: -7735717998439436643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 218
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6140e2a9b2042494e8d5a82b02df9d6a
+      internalID: 5127006027271092445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 218
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6be61d0fe66d5c41aea31967fa72973
+      internalID: -3503188215757788771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 218
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91bd9da0a66a724489df7886a232158
+      internalID: 5004994295562988235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 218
+        width: 96
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d51132bad7ac2409b2c2d01c624233
+      internalID: -3593269996618050421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91788ec13c85dfc46a3ca3231d99a270
+      internalID: 1537511709269361346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 154
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a51f6c924cd139409ec32f2dcbe54f7
+      internalID: -4046666078476063365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 154
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1721a10640d4724babef8a942a11ec6
+      internalID: -8119386442697611868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 154
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07b4f035adb8f04eb03d60e5a6b9c2d
+      internalID: -4486369253691379490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 154
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac8660626429054a86621ad2ddbf9ff
+      internalID: -1490005427639467740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 106
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5f8a320a980874cb3ce539641caf5b
+      internalID: -778050882167200678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 106
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99864dff0047c446844e3adf8b83623
+      internalID: -5838886899815806815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 106
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6039a7a3318426449adc3a53f8b6119a
+      internalID: 5271289933378525504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 90
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cef8a82aecf4246b8a804561f61171
+      internalID: 672039708045932045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 106
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17cf16697d0e3345a7a00e5a511615a
+      internalID: -7620760647550364077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ebdbef03cfb564dbc8dfab3f0792d8
+      internalID: 2489390814736898981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 58
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca96189355f2e3f4384b034c0cec0654
+      internalID: -6678086049559405897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692f047dea7d5c043ac428506c4c7385
+      internalID: -3850688232813761485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62346ec92269c704cb6900f4f4ce87ec
+      internalID: -1612421741961358818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 61
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac20f9e6112af04485a5971ae9ffb21
+      internalID: -1082782077657390732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 77
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92abf8b05c924a1478e6cc64a0b555cc
+      internalID: 8305444573506416155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 12
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9419eaedef48d84491b88f84a038959
+      internalID: -7629457048801791329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 10
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1ce5d4fc1232f40ad1273346166262
+      internalID: -1823188858467132031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_24
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 10
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8015ff0f357e1742b80549f0afe8f43
+      internalID: 523301553948700557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Antique furniture sheet 1.0_25
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 10
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7815df73750fbd4fa75e50338038381
+      internalID: -6903324628496333077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 578318197041e7b4d8a1a65ee77384df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: True
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Antique furniture sheet 1.0_0: -7089979033046315579
+      Antique furniture sheet 1.0_1: -7735717998439436643
+      Antique furniture sheet 1.0_10: -1490005427639467740
+      Antique furniture sheet 1.0_11: -778050882167200678
+      Antique furniture sheet 1.0_12: -5838886899815806815
+      Antique furniture sheet 1.0_13: 5271289933378525504
+      Antique furniture sheet 1.0_14: 672039708045932045
+      Antique furniture sheet 1.0_15: -7620760647550364077
+      Antique furniture sheet 1.0_16: 2489390814736898981
+      Antique furniture sheet 1.0_17: -6678086049559405897
+      Antique furniture sheet 1.0_18: -3850688232813761485
+      Antique furniture sheet 1.0_19: -1612421741961358818
+      Antique furniture sheet 1.0_2: 5127006027271092445
+      Antique furniture sheet 1.0_20: -1082782077657390732
+      Antique furniture sheet 1.0_21: 8305444573506416155
+      Antique furniture sheet 1.0_22: -7629457048801791329
+      Antique furniture sheet 1.0_23: -1823188858467132031
+      Antique furniture sheet 1.0_24: 523301553948700557
+      Antique furniture sheet 1.0_25: -6903324628496333077
+      Antique furniture sheet 1.0_3: -3503188215757788771
+      Antique furniture sheet 1.0_4: 5004994295562988235
+      Antique furniture sheet 1.0_5: -3593269996618050421
+      Antique furniture sheet 1.0_6: 1537511709269361346
+      Antique furniture sheet 1.0_7: -4046666078476063365
+      Antique furniture sheet 1.0_8: -8119386442697611868
+      Antique furniture sheet 1.0_9: -4486369253691379490
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
