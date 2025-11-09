@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a36203a372a830f45944be2486a6ce68
+guid: bad88861b09f0974fac26c11680292af
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3803942896095967126
-    second: FondoMenu_0
+      213: 903139208330839250
+    second: PortadaOr_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FondoMenu_0
+      name: PortadaOr_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1280
-        height: 724
+        width: 1344
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a684454171ea53bc0800000000000000
-      internalID: -3803942896095967126
+      spriteID: 2d4894f2358988c00800000000000000
+      internalID: 903139208330839250
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      FondoMenu_0: -3803942896095967126
+      PortadaOr_0: 903139208330839250
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
